@@ -17,6 +17,8 @@ prerequisites: [golang installed](Download and install)
 
 ### switch user
 
+cd to your git repository root or any sub path.
+
 run `git-switcher` command and select scope(global or single git repository) and user according to prompt.
 
 ![switch scope](doc/switch_scope.png)
