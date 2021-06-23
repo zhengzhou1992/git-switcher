@@ -1,6 +1,6 @@
 # Git user manager
 
-Manager local git accounts(name / email), switch global or project scope git user.
+Manage local git accounts(name / email), switch global or project scope git user.
 
 ## Feature
 - automatically initialize the local file based database (from your local git / project git config file)
